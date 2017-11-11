@@ -1,0 +1,15 @@
+.mainn
+{
+	height:570px;
+	max-height:570px;
+}
+.left-panel
+{
+	border-right:1px solid #FFFFFF;
+}
+.message-area
+{
+	height:400px;
+	max-height:400px;
+	overflow: scroll;
+}
